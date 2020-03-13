@@ -1,4 +1,4 @@
-Testing Automatic Updating
+
 # ![logo](./resource/icons/icon_black_on_white.png) Studio Library
 
 A Free tool written in python for managing poses and animation in Maya.
