@@ -1,4 +1,3 @@
-Testing Automatic Updating
 # ![logo](./resource/icons/icon_black_on_white.png) Studio Library
 
 A Free tool written in python for managing poses and animation in Maya.
@@ -75,4 +74,4 @@ For more information please click [here](https://github.com/krathjen/studiolibra
 
 ## Issues
 
-Feel free to raise an issue with the error message and a detailed step by step process of how you got the error in [github issues](https://github.com/krathjen/studiolibrary/issues/new) or contact [krathjen](http://www.studiolibrary.com/contact).
+Feel free to submit any issues with the error message and a detailed step by step process of how you got the error in [github issues](https://github.com/krathjen/studiolibrary/issues/new) or contact [support@studiolibrary.com](support@studiolibrary.com).
